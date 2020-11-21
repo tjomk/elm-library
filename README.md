@@ -8,3 +8,9 @@ Why build yet another collection of links if there's already [Awesome Elm](https
 ### Adding new links
 
 Feel free to create a pull request and add new links.
+
+## Parsing
+
+- 📖 [Implementing the mini language Arith](https://jxxcarlson.medium.com/implementing-the-mini-language-arith-in-elm-a522f9a7101)
+- 🎧 [elm/parser](https://elm-radio.com/episode/elm-parser) - an episode of Elm Radio Podcast
+- 🎧 [Parse, Don't Validate](https://elm-radio.com/episode/parse-dont-validate) - an episode of Elm Radio Podcast
