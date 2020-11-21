@@ -12,5 +12,6 @@ Feel free to create a pull request and add new links.
 ## Parsing
 
 - 📖 [Implementing the mini language Arith](https://jxxcarlson.medium.com/implementing-the-mini-language-arith-in-elm-a522f9a7101)
+- 📖 [A pure markdown parser in Elm](https://jxxcarlson.medium.com/a-pure-elm-markdown-parser-7b1ac0a19fd9)
 - 🎧 [elm/parser](https://elm-radio.com/episode/elm-parser) - an episode of Elm Radio Podcast
 - 🎧 [Parse, Don't Validate](https://elm-radio.com/episode/parse-dont-validate) - an episode of Elm Radio Podcast
