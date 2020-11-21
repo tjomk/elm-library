@@ -15,3 +15,7 @@ Feel free to create a pull request and add new links.
 - 📖 [A pure markdown parser in Elm](https://jxxcarlson.medium.com/a-pure-elm-markdown-parser-7b1ac0a19fd9)
 - 🎧 [elm/parser](https://elm-radio.com/episode/elm-parser) - an episode of Elm Radio Podcast
 - 🎧 [Parse, Don't Validate](https://elm-radio.com/episode/parse-dont-validate) - an episode of Elm Radio Podcast
+
+## Virtual DOM
+
+- 📖 [https://gampleman.eu/post/171567093310/implementing-vdom-in-elm](Implementing virtual DOM in Elm]
