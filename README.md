@@ -18,4 +18,4 @@ Feel free to create a pull request and add new links.
 
 ## Virtual DOM
 
-- 📖 [https://gampleman.eu/post/171567093310/implementing-vdom-in-elm](Implementing virtual DOM in Elm)
+- 📖 [Implementing virtual DOM in Elm](https://gampleman.eu/post/171567093310/implementing-vdom-in-elm)
