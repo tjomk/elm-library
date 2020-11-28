@@ -9,6 +9,10 @@ Why build yet another collection of links if there's already [Awesome Elm](https
 
 Feel free to create a pull request and add new links.
 
+## Intro
+
+- 📖 [The Hitchhiker's Guide to Elm](https://kodfabrik.com/journal/elm)
+
 ## Parsing
 
 - 📖 [Implementing the mini language Arith](https://jxxcarlson.medium.com/implementing-the-mini-language-arith-in-elm-a522f9a7101)
