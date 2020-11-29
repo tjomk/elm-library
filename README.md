@@ -23,3 +23,8 @@ Feel free to create a pull request and add new links.
 ## Virtual DOM
 
 - 📖 [Implementing virtual DOM in Elm](https://gampleman.eu/post/171567093310/implementing-vdom-in-elm)
+
+## Game Development
+
+- 📖 [https://dev.to/bijanbwb/recreating-breakout-for-the-web-4c7f](Recreating "Breakout" for the web)
+- 📖 [https://dev.to/bijanbwb/recreating-pong-for-the-web-with-elm-2bi8](Reacreating "Ping Pong" for the web)
