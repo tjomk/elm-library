@@ -26,5 +26,5 @@ Feel free to create a pull request and add new links.
 
 ## Game Development
 
-- 📖 [https://dev.to/bijanbwb/recreating-breakout-for-the-web-4c7f](Recreating "Breakout" for the web)
-- 📖 [https://dev.to/bijanbwb/recreating-pong-for-the-web-with-elm-2bi8](Reacreating "Ping Pong" for the web)
+- 📖 [Recreating "Breakout" for the web](https://dev.to/bijanbwb/recreating-breakout-for-the-web-4c7f)
+- 📖 [Recreating "Ping Pong" for the web](https://dev.to/bijanbwb/recreating-pong-for-the-web-with-elm-2bi8)
