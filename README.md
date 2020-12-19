@@ -28,3 +28,7 @@ Feel free to create a pull request and add new links.
 
 - 📖 [Recreating "Breakout" for the web](https://dev.to/bijanbwb/recreating-breakout-for-the-web-4c7f)
 - 📖 [Recreating "Ping Pong" for the web](https://dev.to/bijanbwb/recreating-pong-for-the-web-with-elm-2bi8)
+
+## GraphQL
+
+- 📖 [A purely functional full-stack web app](https://www.47deg.com/blog/mu-graphql-elm/)
