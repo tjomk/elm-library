@@ -32,3 +32,7 @@ Feel free to create a pull request and add new links.
 ## GraphQL
 
 - 📖 [A purely functional full-stack web app](https://www.47deg.com/blog/mu-graphql-elm/)
+
+## Model-View-Update/TEA
+
+- 📖 [Let's talk about TEA](https://www.elm.christmas/2020/19)
